@@ -1,0 +1,650 @@
+{
+    "marketList": [
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/assets/images/common/category_market_1.png",
+            "title": "요실금용품"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/assets/images/common/category_market_3.png",
+            "title": "생활/위생용품"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/assets/images/common/category_market_4.png",
+            "title": "여성용품"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/assets/images/common/category_market_6.png",
+            "title": "주방용품"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/assets/images/common/category_market_2.png",
+            "title": "간병용품"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/assets/images/common/category_market_5.png",
+            "title": "산모용품"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/assets/images/common/category_market_7.png",
+            "title": "건강/헬스용품"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/assets/images/common/category_market_8.png",
+            "title": "리빙용품"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/assets/images/common/category_market_9.png",
+            "title": "화장품"
+        }
+    ],
+    "brandList": [
+        {
+            "no": 0,
+            "icon": "https://cdn.oneulplus.com/assets/images/common/category_brand_1.svg",
+            "title": "디펜드"
+        },
+        {
+            "no": 0,
+            "icon": "https://cdn.oneulplus.com/assets/images/common/category_brand_2.svg",
+            "title": "크리넥스"
+        },
+        {
+            "no": 0,
+            "icon": "https://cdn.oneulplus.com/assets/images/common/category_brand_3.svg",
+            "title": "스카트"
+        },
+        {
+            "no": 0,
+            "icon": "https://cdn.oneulplus.com/assets/images/common/category_brand_4.svg",
+            "title": "좋은느낌"
+        },
+        {
+            "no": 0,
+            "icon": "https://cdn.oneulplus.com/assets/images/common/category_brand_5.svg",
+            "title": "화이트"
+        }
+    ],
+    "evnetList": [
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/event/87714ddd-0cdd-4f9f-a40b-fc8e4f5a4f70.jpg",
+            "alt": "3만원 이상 구매 시 배스킨라빈스 싱글콘 증정! 8월 마지막 릴레이 특가 좋은느낌 1+1"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/event/dfb50bf8-a885-4348-92c6-f520cde24231.jpg",
+            "alt": "안심 5만원 이상 구매 시 5천원 추가 할인! 마지막주 오플런! 디펜드 안심 WEEK"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/event/794df4c9-eab2-450c-8842-56ff775a0cd0.jpg",
+            "alt": "5만원 이상 구매 시 장바구니쿠폰 5천원 추가 할인! 2중케어로 완벽하게 크리넥스 클린투게더"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/event/4c3f8778-8028-494b-9045-8e1b4907b572.jpg",
+            "alt": "켈로그, 오뚜기, 양반, 농심베지가든 간편식 브랜드위크 49% 초특가!"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/event/ee49a452-0b44-4748-b1fb-531d22d0b846.png",
+            "alt": "스카트 트리플액션 물청소포 무료 체험 하세요"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/event/54c3b4c2-a4e1-433e-b476-edd96e417d3c.png",
+            "alt": "오늘플러스 지금 신규가입하면 시원한 커피를 드려요! 24.8.15~24.8.31"
+        }
+    ],
+    "infoList": [
+        {
+            "thumb": "https://cdn.oneulplus.com/assets/images/common/category_info_image_2.png",
+            "title": "오늘의 건강상식"
+        },
+        {
+            "thumb": "https://cdn.oneulplus.com/assets/images/common/category_info_image_3.png",
+            "title": "오늘의 라이프"
+        },
+        {
+            "thumb": "https://cdn.oneulplus.com/assets/images/common/category_info_image_4.png",
+            "title": "오늘의 질병관리"
+        },
+        {
+            "thumb": "https://cdn.oneulplus.com/assets/images/common/category_info_image_5.png",
+            "title": "오늘의 푸드"
+        }
+    ],
+    "talkList": [
+        {
+            "thumb": "https://cdn.oneulplus.com/assets/images/common/category_talk_image_1.png",
+            "title": "#일상을 공유해요"
+        },
+        {
+            "thumb": "https://cdn.oneulplus.com/assets/images/common/category_talk_image_2.png",
+            "title": "#이거 어때요"
+        },
+        {
+            "thumb": "https://cdn.oneulplus.com/assets/images/common/category_talk_image_3.png",
+            "title": "#나만 어려운가요"
+        }
+    ],
+    "banner1": [
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/banner/c1064c4a-9afd-49af-922a-95d5f9391372.jpg",
+            "title": "[8월] 크리넥스 클린투게더"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/banner/2bf9f167-9767-40be-96c9-a5c7046b2701.jpg",
+            "title": "[8월] 맛있는 간편식 골라담기"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/banner/860df79d-ad6c-4f89-8c69-481b5ba22933.png",
+            "title": "[8월] 디펜드 오플런 릴레이 4주차 - 안심 WEEK"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/banner/0432dc2b-2aa5-4ed5-9137-21db782b5421.png",
+            "title": "[8월] 건강한 여름을 위한 기력보충 여름특가"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/banner/4692150b-917d-4f96-a4e4-031518fb2dbe.png",
+            "title": "[8월] 여성용품 릴레이 4주차 - 좋은느낌 브랜드WEEK"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/banner/82172478-684a-4fa6-8af9-3a98c424e664.jpg",
+            "title": "[8월] 디펜드 애니데이 보너스팩 기획전"
+        },
+        {
+            "no": 0,
+            "thumb": "https://cdn.oneulplus.com/banner/6e477c8b-f6d9-4a10-9a08-e6120aeb05d8.jpg",
+            "title": "[8월] 여름준비 COOL-템 기획전"
+        }
+    ],
+    "mainServiceList": [
+        {
+            "icon": "https://cdn.oneulplus.com/assets/images/icons/main_quick_menu_3.svg",
+            "title": "신규가입 혜택"
+        },
+        {
+            "icon": "https://cdn.oneulplus.com/assets/images/icons/main_quick_menu_9.svg",
+            "title": "첫구매 핫딜"
+        },
+        {
+            "icon": "https://cdn.oneulplus.com/assets/images/icons/main_quick_water_1.svg",
+            "title": "물마시기 도전"
+        },
+        {
+            "icon": "https://cdn.oneulplus.com/assets/images/icons/main_quick_menu_2.svg",
+            "title": "오늘의 걸음"
+        },
+        {
+            "icon": "https://cdn.oneulplus.com/assets/images/icons/main_quick_menu_5.svg",
+            "title": "오늘마켓"
+        },
+        {
+            "icon": "https://cdn.oneulplus.com/assets/images/icons/main_quick_menu_1.svg",
+            "title": "샘플신청"
+        },
+        {
+            "icon": "https://cdn.oneulplus.com/assets/images/icons/main_quick_menu_4.svg",
+            "title": "쿠폰/포인트"
+        },
+        {
+            "icon": "https://cdn.oneulplus.com/assets/images/sub/kreenex.svg",
+            "title": "크리넥스"
+        },
+        {
+            "icon": "https://cdn.oneulplus.com/assets/images/sub/scott.svg",
+            "title": "스카트"
+        },
+        {
+            "icon": "https://cdn.oneulplus.com/assets/images/sub/depend.svg",
+            "title": "디펜드"
+        }
+    ],
+    "bestList": [
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0092150000272.jpg?1701939322",
+            "title": "[크라운] 하임47g 10개 혼합 (화이트 5개 + 초코 5개)",
+            "price": {
+                "oriPrice": "14,800",
+                "salePercent": "16",
+                "salePrice": "12,400"
+            }
+        },
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0092130000242.jpg?1710317875",
+            "title": "★BEST★ [정식품] 달콤한 베지밀 B(비) 두유 190ml 트레이/선물포장 모음",
+            "price": {
+                "oriPrice": "18,900",
+                "salePercent": "16",
+                "salePrice": "15,800"
+            }
+        },
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010010002522.jpg?1698397393",
+            "title": "크리넥스 오브제 에디션 100매 x 8입",
+            "price": {
+                "oriPrice": "39,200",
+                "salePercent": "49",
+                "salePrice": "19,900"
+            }
+        },
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010030005602.jpg?1721625862",
+            "title": "디펜드 편안한 언더웨어 일반 대형 10개입 + 디펜드 편안한 언더웨어 전용 속기저귀 30개입",
+            "price": {
+                "oriPrice": "15,950",
+                "salePercent": "24",
+                "salePrice": "12,000"
+            }
+        },
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010010004332.jpg?1722324646",
+            "title": "크리넥스 3겹 데코&소프트 와이드 26m 24롤 X 2",
+            "price": {
+                "oriPrice": "44,100",
+                "salePercent": "29",
+                "salePrice": "30,900"
+            }
+        },
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0090300000082.jpg?1666311914",
+            "title": "[동원] 동원샘물 무라벨 2.0L 6병",
+            "price": {
+                "oriPrice": "6,700",
+                "salePercent": "31",
+                "salePrice": "4,600"
+            }
+        },
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010030005632.jpg?1721977562",
+            "title": "디펜드 애니데이 라이너 수퍼롱 (21+4)개입 X 3",
+            "price": {
+                "oriPrice": "20,250",
+                "salePercent": "31",
+                "salePrice": "13,800"
+            }
+        },
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010150000562.jpg?1714387214",
+            "title": "(2+2) 좋은느낌 유기농 순면 울트라 날개 중형 18개입  ",
+            "price": {
+                "oriPrice": "33,000",
+                "salePercent": "50",
+                "salePrice": "16,900"
+            }
+        },
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0092150000272.jpg?1701939322",
+            "title": "[크라운] 하임47g 10개 혼합 (화이트 5개 + 초코 5개)",
+            "price": {
+                "oriPrice": "14,800",
+                "salePercent": "16",
+                "salePrice": "12,400"
+            }
+        },
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0092130000242.jpg?1710317875",
+            "title": "★BEST★ [정식품] 달콤한 베지밀 B(비) 두유 190ml 트레이/선물포장 모음",
+            "price": {
+                "oriPrice": "18,900",
+                "salePercent": "16",
+                "salePrice": "15,800"
+            }
+        },
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010010002522.jpg?1698397393",
+            "title": "크리넥스 오브제 에디션 100매 x 8입",
+            "price": {
+                "oriPrice": "39,200",
+                "salePercent": "49",
+                "salePrice": "19,900"
+            }
+        },
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010030005602.jpg?1721625862",
+            "title": "디펜드 편안한 언더웨어 일반 대형 10개입 + 디펜드 편안한 언더웨어 전용 속기저귀 30개입",
+            "price": {
+                "oriPrice": "15,950",
+                "salePercent": "24",
+                "salePrice": "12,000"
+            }
+        }
+    ],
+    "dealList": [
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0093800000422.jpg?1722582312",
+            "title": "[켈로그] 프로틴 그래놀라 쉐이커 미숫가루맛 50g 12개",
+            "price": {
+                "oriPrice": "26,100",
+                "salePercent": "17",
+                "salePrice": "21,500"
+            },
+            "deadline": "2024-10-10"
+        },
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0093800000432.jpg?1724290676",
+            "title": "[라이스크리스피 6입 증정] 켈로그 에너지바 크런치 (30g 12개입) 1개",
+            "price": {
+                "oriPrice": "12,000",
+                "salePercent": "10",
+                "salePrice": "11,500"
+            },
+            "deadline": "2024-10-11"
+        },
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0092840000022.jpg?1718343315",
+            "title": "[롯데] 의성마늘 직꾸닭 100g 10개",
+            "price": {
+                "oriPrice": "31,100",
+                "salePercent": "52",
+                "salePrice": "14,900"
+            },
+            "deadline": "2024-10-10"
+        },
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0092150000532.jpg?1709886334",
+            "title": "[크라운] 밤양갱 50g 5입 2개",
+            "price": {
+                "oriPrice": "12,000",
+                "salePercent": "35",
+                "salePrice": "7,700"
+            },
+            "deadline": "2024-10-10"
+        },
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0090300001332.jpg?1702618998",
+            "title": "[동원] 동원샘물 골라담기",
+            "price": {
+                "oriPrice": "15,000",
+                "salePercent": "70",
+                "salePrice": "4,500"
+            },
+            "deadline": "2024-10-10"
+        },
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0092130000052.jpg?1696599729",
+            "title": "[정식품] 달콤한 베지밀 B(비) 두유 190ml 16팩",
+            "price": {
+                "oriPrice": "26,300",
+                "salePercent": "57",
+                "salePrice": "11,300"
+            },
+            "deadline": "2024-10-10"
+        },
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0092140000042.jpg?1696599064",
+            "title": "[커피맛을조금아는남자] 스페셜티 커피 드립백 브라질 8개입 / 커조남",
+            "price": {
+                "oriPrice": "13,100",
+                "salePercent": "32",
+                "salePrice": "8,800"
+            },
+            "deadline": "2024-10-10"
+        },
+        {
+            "no": 0,
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0092150000032.jpg?1696593767",
+            "title": "[크라운] 추억의 샌드과자 세트 4개 (국희 1개 + 산도딸기 1개 + 뽀또 1개 + 그레이스 1개)",
+            "price": {
+                "oriPrice": "24,000",
+                "salePercent": "39",
+                "salePrice": "14,500"
+            },
+            "deadline": "2024-10-10"
+        }
+    ],
+    "special1": [
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010010004332.jpg?1722324646",
+            "title": "크리넥스 3겹 데코&소프트 와이드 26m 24롤 X 2",
+            "price": {
+                "oriPrice": "44,100",
+                "salePercent": "29",
+                "salePrice": "30,900"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010010002162.jpg?1690509853",
+            "title": "크리넥스 3겹 울트라클린 25m 24롤 X 2",
+            "price": {
+                "oriPrice": "30,900",
+                "salePercent": "41",
+                "salePrice": "22,900"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010010004282.jpg?1720078338",
+            "title": "크리넥스 4겹 퓨어코튼 25M X 30롤 (EA)",
+            "price": {
+                "oriPrice": "35,900",
+                "salePercent": "30",
+                "salePrice": "24,900"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010010004272.jpg?1720078198",
+            "title": "크리넥스 4겹 울트라클린 25M X 30롤 (EA)",
+            "price": {
+                "oriPrice": "34,900",
+                "salePercent": "28",
+                "salePrice": "24,900"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010010002432.jpg?1696553980",
+            "title": "크리넥스 3겹 순수소프트 화장지 28m 24롤 X 2",
+            "price": {
+                "oriPrice": "42,400",
+                "salePercent": "29",
+                "salePrice": "29,900"
+            }
+        }
+    ],
+    "mdList": [
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010030004832.jpg?1711371937",
+            "title": "디펜드 안심 깔개매트 10개입 X 10팩",
+            "price": {
+                "oriPrice": "44,500",
+                "salePercent": "12",
+                "salePrice": "38,900"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010020001782.jpg?1695091585",
+            "title": "스카트 유리거울세정청소티슈 30매x4입 (EA)",
+            "price": {
+                "oriPrice": "15,500",
+                "salePercent": "28",
+                "salePrice": "11,100"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0090300002392.jpg?1719215995",
+            "title": "[동원] 미네마인 스파클링 워터 500ml 레몬 * 20개 ",
+            "price": {
+                "oriPrice": "79,000",
+                "salePercent": "87",
+                "salePrice": "10,000"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0090490000272.jpg?1719215995",
+            "title": "[상아제약] 상아 올데이365 유산균 (2g*30포)",
+            "price": {
+                "oriPrice": "49,900",
+                "salePercent": "81",
+                "salePrice": "9,100"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010010002562.jpg?1698713726",
+            "title": "크리넥스 밀크에센스로션 티슈 화장지 180매 6개입 (EA)",
+            "price": {
+                "oriPrice": "25,100",
+                "salePercent": "24",
+                "salePrice": "18,900"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010150000552.jpg?1714387117",
+            "title": "(2+2) 좋은느낌 오리지널 프리미엄 울트라 날개 대형 16개입  ",
+            "price": {
+                "oriPrice": "22,600",
+                "salePercent": "50",
+                "salePrice": "11,200"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0092620000012.jpg?1705996225",
+            "title": "대천김 재래김/파래김/돌김 10봉 모음 전장김/조미김/구운김",
+            "price": {
+                "oriPrice": "15,900",
+                "salePercent": "8",
+                "salePrice": "14,500"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010010001292.jpg?1676359661",
+            "title": "크리넥스 항균 핸드워시 퓨어애플 (본품 500ml + 리필 450ml)",
+            "price": {
+                "oriPrice": "23,000",
+                "salePercent": "50",
+                "salePrice": "11,900"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010030004832.jpg?1711371937",
+            "title": "디펜드 안심 깔개매트 10개입 X 10팩",
+            "price": {
+                "oriPrice": "44,500",
+                "salePercent": "12",
+                "salePrice": "38,900"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010020001782.jpg?1695091585",
+            "title": "스카트 유리거울세정청소티슈 30매x4입 (EA)",
+            "price": {
+                "oriPrice": "15,500",
+                "salePercent": "28",
+                "salePrice": "11,100"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0090300002392.jpg?1719215995",
+            "title": "[동원] 미네마인 스파클링 워터 500ml 레몬 * 20개 ",
+            "price": {
+                "oriPrice": "79,000",
+                "salePercent": "87",
+                "salePrice": "10,000"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0090490000272.jpg?1719215995",
+            "title": "[상아제약] 상아 올데이365 유산균 (2g*30포)",
+            "price": {
+                "oriPrice": "49,900",
+                "salePercent": "81",
+                "salePrice": "9,100"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010010002562.jpg?1698713726",
+            "title": "크리넥스 밀크에센스로션 티슈 화장지 180매 6개입 (EA)",
+            "price": {
+                "oriPrice": "25,100",
+                "salePercent": "24",
+                "salePrice": "18,900"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010150000552.jpg?1714387117",
+            "title": "(2+2) 좋은느낌 오리지널 프리미엄 울트라 날개 대형 16개입  ",
+            "price": {
+                "oriPrice": "22,600",
+                "salePercent": "50",
+                "salePrice": "11,200"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0092620000012.jpg?1705996225",
+            "title": "대천김 재래김/파래김/돌김 10봉 모음 전장김/조미김/구운김",
+            "price": {
+                "oriPrice": "15,900",
+                "salePercent": "8",
+                "salePrice": "14,500"
+            }
+        },
+        {
+            "thumb": "https://shop.oneulplus.com/shopimages/oneulplus/0010010001292.jpg?1676359661",
+            "title": "크리넥스 항균 핸드워시 퓨어애플 (본품 500ml + 리필 450ml)",
+            "price": {
+                "oriPrice": "23,000",
+                "salePercent": "50",
+                "salePrice": "11,900"
+            }
+        }
+    ],
+    "mainInfoList": [
+        {
+            "thumb": "https://cdn.oneulplus.com/banner/eaa2006e-45ae-404f-bed1-6cc31479859e.jpg",
+            "alt": "제철 과일이 부르는 '혈당 스파이크'주의, 당뇨환자 여름 보내기"
+        },
+        {
+            "thumb": "https://cdn.oneulplus.com/banner/cff728ce-e896-4724-ac7d-703c266b3526.jpg",
+            "alt": "디지털 헬스케어'로 초고령화 사회 준비한다"
+        },
+        {
+            "thumb": "https://cdn.oneulplus.com/banner/6c620622-32d8-4d2d-9df1-dc7fd84e6dee.jpg",
+            "alt": "때때로 두근두근? 기분 탓 아니라 '부정맥' ... 일상 속 의심 증상"
+        }
+    ],
+    "banner1ddd": [
+        {
+            "no": 0,
+            "thumb": "",
+            "title": "",
+            "price": {
+                "oriPrice": "",
+                "salePercent": "",
+                "salePrice": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>오늘플러스 | 오늘플러스</title>
+        <!-- og -->
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://phs-developer.github.io/oneulplus/" />
+        <meta property="og:title" content="오늘플러스 (포폴용)" />
+        <meta property="og:image" content="https://phs-developer.github.io/oneulplus/assets/images/og_img.jpg" />
+        <meta
+            property="og:description"
+            content="깨끗한 오늘, 자신있는 내일을 위한 유한킴벌리 데일리 위생건강케어 직영몰"
+        />
+        <meta property="og:site_name" content="오늘플러스" />
+        <!-- favicon -->
+        <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/favicon.png" />
+        <!-- stylesheet -->
+        <link rel="stylesheet" href="./assets/css/reset.css" />
+        <link rel="stylesheet" href="./assets/css/style.css" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+        <!-- script -->
+        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="./assets/js/main.js" defer></script>
+    </head>
+    <body>
+        <div id="wrap" class="up">
+            <header id="header">
+                <h1 class="logo">
+                    <a href="#">
+                        <img src="./assets/images/logo.png" alt="오늘플러스 로고" />
+                    </a>
+                </h1>
+                <div class="util">
+                    <div class="cart">
+                        <a href="#">
+                            <i class="ico-cart"></i>
+                            <span class="blind">장바구니</span>
+                        </a>
+                    </div>
+                    <div class="menu">
+                        <button href="">
+                            <i class="ico-menu"></i>
+                            <span class="blind">메뉴 열기</span>
+                        </button>
+                    </div>
+                </div>
+            </header>
+            <div id="gnb-menu">
+                <div class="gnb-wrap">
+                    <div class="gnb-head">
+                        <div class="login">
+                            로그인 해주세요.
+                            <a href="#">로그인</a>
+                        </div>
+                        <button type="button" class="btn-close">
+                            <i class="ico-close"></i>
+                            <span class="blind">메뉴 닫기</span>
+                        </button>
+                    </div>
+                    <section class="section1">
+                        <div class="group-head">
+                            <h2 class="headline">
+                                <i class="ico-text"> <span class="blind">오늘</span></i>
+                            </h2>
+                            마켓
+                            <a href="#">전체보기</a>
+                        </div>
+                        <div class="group-contents">
+                            <ul class="cate-list"></ul>
+                        </div>
+                    </section>
+                    <section class="section2">
+                        <div class="group-head">
+                            <h2 class="headline">
+                                <i class="ico-text"> <span class="blind">오늘</span> </i>브랜드
+                            </h2>
+                            <a href="#">전체보기</a>
+                        </div>
+                        <div class="group-contents">
+                            <ul class="brand-list"></ul>
+                        </div>
+                    </section>
+                    <section class="section3">
+                        <div class="group-head">
+                            <h2 class="headline">
+                                <i class="ico-text"><span class="blind">오늘</span></i
+                                >이벤트
+                            </h2>
+                            <a href="#">전체보기</a>
+                        </div>
+                        <div class="group-contents">
+                            <div class="swiper">
+                                <div class="swiper-wrapper"></div>
+                                <div class="pagination"></div>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="section4">
+                        <div class="group-head">
+                            <h2 class="headline">
+                                <i class="ico-text"> <span class="blind">오늘</span> </i>정보
+                            </h2>
+                            <a href="#">전체보기</a>
+                        </div>
+                        <div class="group-contents">
+                            <ul class="info-list"></ul>
+                        </div>
+                    </section>
+                    <section class="section5">
+                        <div class="group-head">
+                            <h2 class="headline">
+                                <i class="ico-text"> <span class="blind">오늘</span> </i>톡
+                            </h2>
+                            <a href="#">전체보기</a>
+                        </div>
+                        <div class="group-contents">
+                            <ul class="talk-list"></ul>
+                        </div>
+                    </section>
+                </div>
+            </div>
+            <main id="container">
+                <section class="sc-tab">
+                    <ul class="tab-list">
+                        <li class="tab-item on">
+                            <a href="#">홈</a>
+                        </li>
+                        <li class="tab-item">
+                            <a href="#">첫구매 핫딜</a>
+                        </li>
+                        <li class="tab-item">
+                            <a href="#">마켓</a>
+                        </li>
+                        <li class="tab-item">
+                            <a href="#">이벤트/기획전</a>
+                        </li>
+                    </ul>
+                </section>
+                <aside class="banner1">
+                    <div class="swiper">
+                        <div class="swiper-wrapper"></div>
+                        <div class="control">
+                            <button type="button" class="btn-auto stop">
+                                <span class="blind">자동재생 정지</span>
+                            </button>
+                            <div class="pagination">
+                                <!-- type을 fraction으로 -->
+                            </div>
+                            <a href="#" class="link-full">
+                                <span class="blind">전체보기</span>
+                            </a>
+                        </div>
+                    </div>
+                </aside>
+                <section class="sc-main">
+                    <h2 class="blind">메인 서비스</h2>
+                    <ul class="serv-list"></ul>
+                </section>
+                <section class="sc-best">
+                    <div class="group-head">
+                        <h2 class="headline">
+                            <i class="ico-text"> <span class="blind">오늘</span> </i>베스트
+                        </h2>
+                    </div>
+                    <div class="group-contents">
+                        <div class="swiper">
+                            <div class="swiper-wrapper"></div>
+                            <div class="pagination"></div>
+                        </div>
+                    </div>
+                </section>
+                <aside class="banner2">
+                    <div class="swiper">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <img src="./assets/images/banner2.jpg" alt />
+                                <p class="blind">[홈개선] 디펜드상시무료샘플이벤트_띠배너</p>
+                            </div>
+                            <div class="swiper-slide">
+                                <img
+                                    src="https://cdn.oneulplus.com/banner/0bdd1eec-ddf2-4cbe-aff5-6c0df899662e.png"
+                                    alt
+                                />
+                                <p class="blind">[홈개선] 신규가입혜택_띠배너</p>
+                            </div>
+                        </div>
+                        <div class="pagination"></div>
+                    </div>
+                </aside>
+                <section class="sc-deal">
+                    <div class="group-head">
+                        <h2 class="headline">
+                            <i class="ico-text"> <span class="blind">오늘</span> </i>딜
+                        </h2>
+                    </div>
+                    <div class="group-contents">
+                        <div class="swiper">
+                            <div class="swiper-wrapper"></div>
+                            <div class="pagination"></div>
+                        </div>
+                    </div>
+                </section>
+                <section class="sc-special1">
+                    <h2 class="blind">추천기획전</h2>
+                    <div class="group-img">
+                        <h3 class="blind">추천기획전 이미지</h3>
+                        <a href="#">
+                            <img src="./assets/images/gnb_s3.jpg" />
+                            <span class="blind">디펜드 오플런 릴레이 1주차</span>
+                        </a>
+                    </div>
+                    <div class="group-prod">
+                        <h3 class="blind">추천기획전 상품</h3>
+                        <div class="swiper">
+                            <div class="swiper-wrapper"></div>
+                        </div>
+                    </div>
+                </section>
+                <section class="sc-md">
+                    <div class="group-head">
+                        <h2 class="headline">
+                            <i class="ico-text"> <span class="blind">오늘</span> </i>MD 추천
+                        </h2>
+                    </div>
+                    <div class="group-contents">
+                        <div class="swiper">
+                            <div class="swiper-wrapper"></div>
+                            <div class="pagination"></div>
+                        </div>
+                    </div>
+                </section>
+                <section class="sc-special2">
+                    <h2 class="blind">추천기획전</h2>
+                    <div class="group-img">
+                        <h3 class="blind">추천기획전 이미지</h3>
+                        <img src="./assets/images/spe_2.jpg" />
+                        <span class="blind">디펜드 오플런 릴레이 1주차</span>
+                    </div>
+                    <div class="group-prod">
+                        <h3 class="blind">추천기획전 상품</h3>
+                        <div class="swiper">
+                            <div class="swiper-wrapper"></div>
+                        </div>
+                    </div>
+                </section>
+                <section class="sc-info">
+                    <div class="group-title">
+                        <div class="group-head">
+                            <h2 class="headline">
+                                <i class="ico-text"> <span class="blind">오늘</span> </i>정보
+                            </h2>
+                            <a href="#">전체보기</a>
+                        </div>
+                    </div>
+                    <div class="group-contents">
+                        <div class="swiper">
+                            <div class="swiper-wrapper"></div>
+                        </div>
+                    </div>
+                </section>
+                <aside class="banner3">
+                    <img src="./assets/images/banner3.jpg" alt="[홈개선] 친구추천이벤트_띠배너" />
+                </aside>
+                <ul class="quick-list">
+                    <li class="quick-item">
+                        <a href="#"> 로그인 </a>
+                    </li>
+                    <li class="quick-item">
+                        <a href="#"> 고객센터 </a>
+                    </li>
+                </ul>
+            </main>
+            <footer id="footer">
+                <h2 class="blind">푸터</h2>
+                <div class="group-logo">
+                    <a href="#">
+                        <img src="./assets/images/f_logo.png" alt="유한킴벌리 로고" />
+                    </a>
+                </div>
+                <div class="group-cs">
+                    <strong class="cs">오늘플러스 고객센터<a tel:000-000-0000> 080-501-5858</a></strong>
+                    <p>평일 09:00 ~ 17:30 / 점심 12:00~13:00 (주말/공휴일 휴무)</p>
+                </div>
+                <div class="group-info">
+                    <p class="title">유한킴벌리(주)<button class="btn-arrow"></button></p>
+                    <div class="info">
+                        <address class="addr">서울시 송파구 올림픽로 300 롯데월드타워 29층 (우)05551</address>
+                        <p>대표이사 : 진재승 / 사업자등록번호 : 120-81-11436</p>
+                        <p>통신판매업신고 : 2020-서울송파-1816 <a href="#">사업자정보확인</a></p>
+                    </div>
+                </div>
+                <div class="group-etc">
+                    <ul class="etc-list">
+                        <li class="etc-item">
+                            <a href="#">이용약관</a>
+                        </li>
+                        <li class="etc-item">
+                            <a href="#">개인정보처리방침</a>
+                        </li>
+                        <li class="etc-item">
+                            <a href="#">글로벌 개인정보보호 정책</a>
+                        </li>
+                        <li class="etc-item">
+                            <a href="#">프라이버시 가치</a>
+                        </li>
+                        <li class="etc-item">
+                            <a href="#">구매안전 서비스(채무지급보증)</a>
+                        </li>
+                        <li class="etc-item">
+                            <a href="#">제휴확인</a>
+                        </li>
+                    </ul>
+                </div>
+            </footer>
+            <div id="tab">
+                <ul class="menu-list">
+                    <li class="menu-item">
+                        <a href="#">
+                            <i class="ico-home"></i>
+                            <span>홈</span>
+                        </a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="#">
+                            <i class="ico-search"></i>
+                            <span>검색</span>
+                        </a>
+                    </li>
+                    <li class="menu-item challenge">
+                        <a href="#">
+                            <div class="icon">
+                                <i class="ico-challenge"></i>
+                            </div>
+                            <span>오늘<i class="ico-plus"></i>도전</span>
+                        </a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="#">
+                            <i class="ico-my"></i>
+                            <span>마이</span>
+                        </a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="#">
+                            <i class="ico-history"></i>
+                            <span>히스토리</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>
